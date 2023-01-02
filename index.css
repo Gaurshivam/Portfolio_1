@@ -1,0 +1,28 @@
+* {
+    padding: 0; margin: 0; box-sizing: border-box;
+}
+body {
+    overflow-x: hidden;
+}
+h1 , h2{
+    font-family: 'Rubik Gemstones', cursive;
+}
+#shiva {
+    font-family: 'Rubik Gemstones', cursive;   
+}
+
+.carousel-item img{
+    width: 100%;
+    height: 80vh;
+}
+
+.card-body img {
+    width: 50%;
+    height: 200px;
+}
+
+#contact-img{
+    width: 90%;
+    height: 350px;
+
+}
